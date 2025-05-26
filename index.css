@@ -23,3 +23,29 @@ font-size: 15px;
 
 
 }
+.productos{
+background-color: aqua;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+.logo{
+border-radius: 50%;
+}
+.ventilador{
+    border-style:solid ;
+    border-color:black ;
+    border-width:1px ;
+display: flex;
+flex-direction:column;
+}
+.fotito{
+height: 100px;
+width: 100px;}
+
+.horario{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
