@@ -12,3 +12,54 @@ justify-content:flex-start;
     a{
     color: black;
     }
+    .miku{
+        width: 100px;
+        height: 100px;
+        background-color: deepskyblue;
+        display: flex;
+        flex-direction:column ;
+        
+margin: 20px;
+    }
+    .productoz{
+        display: flex;
+        flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+    
+    }
+    .teto{
+        width: 100px;
+        height: 100px;
+        background-color: brown;
+        display: flex;
+        flex-direction:column;
+        margin: 20px;
+        margin-right: 20px;
+    
+    }
+    .mikU{
+        border-style: solid;
+        border-color: deepskyblue;
+        background-color: deepskyblue;
+        display: flex;
+        flex-direction:column ;
+    
+    }
+    .tetO{
+border-style: solid;
+border-color: brown;
+background-color: brown;  
+display: flex;
+flex-direction: column;  
+}
+.kaito{
+width: 100px;
+height: 100px;
+background-color:blue ;
+display: flex;
+flex-direction: column;
+margin: 20px;
+
+}
+    
