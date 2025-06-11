@@ -1,0 +1,18 @@
+nav{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    font-size: 15px;}
+      header{
+        display: flex;
+flex-direction: row;
+justify-content:flex-start;}
+h2{
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+.historia{
+font-size: 25px;
+}

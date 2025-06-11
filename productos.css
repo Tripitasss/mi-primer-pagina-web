@@ -62,4 +62,55 @@ flex-direction: column;
 margin: 20px;
 
 }
+.kaitO{
+border-style: solid;
+border-color: blue;
+background-color: blue;
+display: flex;
+flex-direction: column;
+}
+.miku-mini{
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.miku-minI{
+    border-style: solid;
+    border-color: skyblue;
+    background-color: skyblue;
+    display: flex;
+    flex-direction: column;
+}
+.tazita{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.tazitA{
+    border-style: solid;
+    border-color: lightblue;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+}
+body{
+background-color: peachpuff;
+}
+main{
+border-style: solid;
+border-width: 1px;
+border-color: black;
+
+}
+.logo{
+height: 120px;
+border-radius: 50%;
+}
+
     
